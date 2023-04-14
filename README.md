@@ -1,0 +1,1 @@
+本项目是针对异常优雅重试的demo,主要使用spring的retry
